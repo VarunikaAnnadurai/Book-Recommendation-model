@@ -27,28 +27,16 @@
   <h3>Model Evaluation</h3>
   <p>Model performance is assessed using metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-squared (R2), Explained Variance, and Accuracy Percentage.</p>
 
-  <h3>Content-Based Filtering</h3>
-  <p>Content-based filtering models are implemented, allowing for personalized recommendations based on book features such as price, number of pages, and genre.</p>
-
-  <h3>Collaborative Filtering</h3>
-  <p>Collaborative filtering techniques are employed to provide book recommendations based on user behavior and preferences.</p>
-
-  <h3>Association Rule Mining</h3>
-  <p>Association rule mining models identify interesting patterns in book co-purchases, allowing for recommendations based on user shopping behavior.</p>
-
-  <h3>GitHub Repository</h3>
-  <p>The project is hosted on GitHub, where the code and documentation can be accessed. Users can explore the models, datasets, and analysis results.</p>
-
   <h2>Dependencies</h2>
   <p>The project uses Python and various libraries such as pandas, scikit-learn, seaborn, and more for data analysis and machine learning.</p>
 
   <h2>Usage</h2>
   <ul>
-    <li>Clone the repository: <code>git clone https://github.com/your-username/book-recommendation.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/VarunikaAnnadurai/book-recommendation.git</code></li>
     <li>Install the required dependencies: <code>pip install -r requirements.txt</code></li>
     <li>Run the Jupyter notebooks to explore the analysis and models.</li>
   </ul>
 
-  <p>Feel free to contribute, provide feedback, or use this project as a foundation for your book recommendation system. Happy reading!</p>
+  <p>Feel free to contribute, provide feedback, or use this project as a foundation for your book recommendation system.</p>
 </body>
 </html>
