@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Book Recommendation System</title>
-</head>
 <body>
   <h1>Book Recommendation System</h1>
   
